@@ -1,0 +1,11 @@
+Start Program
+   ↓
+Display Menu
+   ↓
+User Chooses Option
+   ↓
+Call Function
+   ↓
+Display Result
+   ↓
+Repeat Until Exit
